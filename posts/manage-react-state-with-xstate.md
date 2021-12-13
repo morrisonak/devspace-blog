@@ -1,5 +1,5 @@
 ---
-title: 'Manage React State With XState'
+title: 'Loram Friction modifier'
 date: 'May 15, 2021'
 excerpt: 'The most straightforward way of using XState with React is through local component state'
 cover_image: '/images/posts/img8.jpg'
